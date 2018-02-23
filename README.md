@@ -1,4 +1,7 @@
 # #LeanEstimates
+
+> __TLDR; nothing new__ - use a model with previous data to estimate / forecast software development efforts and _be pragmatic, not dogmatic!_
+
 ## Or Lean Software Development Effort Estimation / Forecasting 
 The purpose of this repository is to look at some interesting ways to estimate / forecast software effort. To be able to forecast we need a stable system and measure the flow of work items entering and leaving the system:
  
@@ -12,8 +15,7 @@ The foundation of this approaches are that you have already gathered data and th
 
 ## My Definition of #LeanEstimates
 
-> __TLDR;__ My Definition of #LeanEstimates - reduce pure estimation used in software projects (judgmental combination, analogy-based estimation, size-based estimation models, [more]( https://en.wikipedia.org/wiki/Software_development_effort_estimation)) to a minimum and use a model with previous data (cycle times, etc.) to estimate / forecast remaining efforts. 
->Be pragmatic, not dogmatic! 
+> __TLDR;__ My Definition of #LeanEstimates - reduce pure estimation used in software projects (judgmental combination, analogy-based estimation, size-based estimation models, [more]( https://en.wikipedia.org/wiki/Software_development_effort_estimation)) to a minimum and use a model with previous data (cycle times, etc.) to estimate / forecast remaining efforts.  
 
 When we use a lean mindset we try to reduce waste. In software development (or lean) waste are activities or things which are not directly adding value to the customer. Of course, we will not get rid of all the waste but we try to eliminate it to a bare minimum.  It's like the daily standup. A standup is technically waste, but useful for the team. But you would not say that we should do standups twice a day, because they are useful? So, it's a thin line between waste we need and waste we want to get rid off.  So we use the same approach to estimation, we try to reduce estimates to the bare minimum or try to automate the forecasting with a model.
 
