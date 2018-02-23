@@ -22,7 +22,7 @@ I personally want to __reduce estimation to a minimum and use previous data (cyc
 
 ## Examples
 This repository is collection of approaches to do work estimation with data.
-- [Forecasting with a Monte Carlo Simulation (Juyper Notebook)](notebooks/forecasting_with_monte_carlo.ipynb)
+- Forecasting with a Monte Carlo Simulation [(Juyper Notebook)](notebooks/forecasting_with_monte_carlo.ipynb)
 
 The examples are inspired from previous publications form _Klaus Leopold, Vasco Duarte and Daniel S. Vacanti_. For more details have look at the reference section.
 
