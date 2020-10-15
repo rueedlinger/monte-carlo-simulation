@@ -13,6 +13,9 @@ Monte Carlo  simulation for the cycle times.
     - *cycle_time_days* => cycle time in days for this JIRA issue (`finish date - start date = cycle time days`).
     - *created_date* => when the issue was created
 
+![](simulation.png)
+![](dens.png)
+
 
 ## Getting Started
 
