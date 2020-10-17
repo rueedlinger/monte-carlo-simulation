@@ -1,4 +1,4 @@
-# Monte Carlo Simulation for Cycle Times
+# Monte Carlo Simulation for Forecasting Cycle Times
 
 I came across some examples and plugins (see references) for estimating the cycle times in a Kanban system. 
 So my goal was to build the same thing with a Python Jupyter Notebook. 
