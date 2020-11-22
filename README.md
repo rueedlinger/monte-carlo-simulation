@@ -1,4 +1,4 @@
-# Monte Carlo Simulation for Forecasting Cycle Times
+# Monte Carlo Simulation for Forecasting Cycle Times 
 
 I came across some examples and plugins (see references) for estimating the cycle times in a Kanban system. 
 So my goal was to build the same thing with a Python Jupyter Notebook. 
@@ -21,7 +21,7 @@ Monte Carlo  simulation for the cycle times.
 
 All the required Python packages can be installed with `pipenv`.
 
-## Project Setup
+### Project Setup
 
 First you nee to install pipenv.
 
@@ -41,6 +41,8 @@ $ pipenv install --dev
 pipenv run jupyter-lab
 ```
 
+## CI Build
+![CI Build](https://github.com/rueedlinger/monte-carlo-simulation/workflows/CI%20Build/badge.svg)
 
 ## References
 
